@@ -1,0 +1,22 @@
+{
+  "name": "thebreederapp",
+  "version": "0.0.1",
+  "description": "The Breeder App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xyrd/thebreederapp.git"
+  },
+  "author": "Drew Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xyrd/thebreederapp/issues"
+  },
+  "homepage": "https://github.com/Xyrd/thebreederapp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

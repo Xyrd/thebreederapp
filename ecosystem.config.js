@@ -7,7 +7,7 @@ module.exports = {
     production: {
       user: 'ubuntu',
       host: 'ec2-52-36-189-2.us-west-2.compute.amazonaws.com',
-      key: '~/.ssh/sandbox.pem',
+      key: 'C:/Cygwin64/home/Drew/.ssh/sandbox.pem',
       ref: 'origin/master',
       repo: 'git@github.com:Xyrd/thebreederapp.git',
       path: '/home/ubuntu/thebreederapp',
